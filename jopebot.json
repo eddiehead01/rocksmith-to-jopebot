@@ -1,0 +1,62 @@
+[
+    {
+        "Enabled": "[*]Yes",
+        "albumName": "A Matter Of Life And Death",
+        "charterName": "N/A",
+        "songLength": "261728.99999999997",
+        "artistName": "Iron Maiden",
+        "genreName": "",
+        "year": "2006",
+        "songName": "Different World"
+    },
+    {
+        "Enabled": "[*]Yes",
+        "albumName": "A Matter of Life and Death",
+        "charterName": "N/A",
+        "songLength": "565055.0",
+        "artistName": "Iron Maiden",
+        "genreName": "",
+        "year": "2006",
+        "songName": "The Legacy"
+    },
+    {
+        "Enabled": "[*]Yes",
+        "albumName": "A Matter Of Life And Death",
+        "charterName": "Custom Song Creator",
+        "songLength": "568263.0",
+        "artistName": "Iron Maiden",
+        "genreName": "",
+        "year": "2006",
+        "songName": "For The Greater Good Of God"
+    },
+    {
+        "Enabled": "[*]Yes",
+        "albumName": "From Beale Street To Oblivion",
+        "charterName": "Alex360",
+        "songLength": "404845.0",
+        "artistName": "Clutch",
+        "genreName": "",
+        "year": "2007",
+        "songName": "Electric Worry - One Eye Dollar"
+    },
+    {
+        "Enabled": "[*]Yes",
+        "albumName": "Somewhere In Time",
+        "charterName": "Custom Song Creator",
+        "songLength": "298629.0",
+        "artistName": "Iron Maiden",
+        "genreName": "",
+        "year": "1986",
+        "songName": "Dj Vu"
+    },
+    {
+        "Enabled": "[*]Yes",
+        "albumName": "Queensrche",
+        "charterName": "Custom Song Creator",
+        "songLength": "265404.0",
+        "artistName": "Queensrche",
+        "genreName": "",
+        "year": "1982",
+        "songName": "Queen of the Reich"
+    }
+]
